@@ -199,6 +199,62 @@ This project can be further improved by:
 
 ---
 
+## 📊 Results
+
+The Exploratory Data Analysis and Feature Engineering process provides several useful findings from the Algerian Forest Fires dataset.
+
+### 🔎 EDA Results
+
+* Identified the structure, data types, and statistical characteristics of the dataset.
+* Cleaned inconsistent and missing data to make the dataset suitable for analysis.
+* Analyzed the distribution of weather and environmental variables.
+* Examined relationships between temperature, humidity, wind speed, rainfall, and fire occurrence.
+* Used correlation analysis to identify relationships between important numerical features.
+* Visualized patterns and differences between **Fire** and **Not Fire** observations.
+* Analyzed the Fire Weather Index (FWI) components and their relationship with forest fire activity.
+* Identified important environmental conditions associated with higher forest fire occurrence.
+
+### ⚙️ Feature Engineering Results
+
+* Converted raw data into a structured format suitable for Machine Learning.
+* Selected relevant features for predictive analysis.
+* Removed unnecessary or redundant information.
+* Transformed categorical information into a Machine Learning-compatible format.
+* Prepared independent and dependent variables.
+* Applied appropriate preprocessing and feature scaling where required.
+
+### 🎯 Key Outcomes
+
+The main outcomes of this project are:
+
+1. **Better Understanding of Forest Fire Patterns**
+   EDA helped identify how weather and environmental conditions vary between fire and non-fire observations.
+
+2. **Identification of Important Variables**
+   Temperature, humidity, wind-related variables, rainfall, and Fire Weather Index components were analyzed to understand their relationship with fire occurrence.
+
+3. **Improved Data Quality**
+   Data cleaning and preprocessing produced a more consistent dataset for further analysis and Machine Learning.
+
+4. **Meaningful Data Visualization**
+   Different plots and statistical visualizations made complex relationships easier to understand and interpret.
+
+5. **Machine Learning-Ready Dataset**
+   Feature Engineering transformed the cleaned dataset into a suitable input format for Machine Learning models.
+
+6. **Foundation for Predictive Analysis**
+   The processed dataset can be used to train Machine Learning models for identifying forest fire risk.
+
+7. **Real-World Data Science Application**
+   The project demonstrates how Data Science techniques can be applied to an environmental problem using real-world weather and forest fire data.
+
+### 🏆 Overall Outcome
+
+**This project transforms raw forest fire and weather data into meaningful insights through Data Cleaning, Exploratory Data Analysis, Visualization, and Feature Engineering, creating a strong foundation for Machine Learning-based forest fire risk analysis.**
+
+> **Note:** The results described above represent the analytical outcomes of the EDA and Feature Engineering process. Specific Machine Learning performance metrics should be reported from the actual model evaluation results rather than using fixed or assumed values.
+
+
 ## 👨‍💻 Author
 
 **Harshvardhan Toriya**
